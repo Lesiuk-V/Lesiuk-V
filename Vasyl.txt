@@ -1,0 +1,3 @@
+https://metanit.com/sharp/patterns/1.1.php
+
+Цікава стаття про патерни та їх види в С# та не тільки
